@@ -20,7 +20,7 @@
   "main": "src/htmlminifier.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/html-minifier-without-js/"
+    "url": "https://github.com/semiromid/html-minifier-without-js.git"
   },
   "dependencies": {
     "camel-case": "3.0.x",
