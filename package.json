@@ -1,6 +1,6 @@
 {
   "name": "html-minifier-without-js",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "You probably want to use original lib - https://github.com/kangax/html-minifier",
   "keywords": [
     "html-minifier-without-js"   
