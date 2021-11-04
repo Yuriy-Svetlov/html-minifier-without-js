@@ -1,26 +1,26 @@
 {
   "name": "html-minifier-without-js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "You probably want to use original lib - https://github.com/kangax/html-minifier",
   "keywords": [
     "html-minifier-without-js"   
   ],
-  "homepage": "https://github.com/semiromid/html-minifier-without-js/",
-  "bugs": "https://github.com/semiromid/html-minifier-without-js/issues/",
+  "homepage": "https://github.com/Yuriy-Svetlov/html-minifier-without-js/",
+  "bugs": "https://github.com/Yuriy-Svetlov/html-minifier-without-js/issues/",
   "license": "MIT",
   "files": [
     "src/*.js",
     "Readme.md"
   ],  
   "author": {
-    "name": "TAMARA SEMINA",
+    "name": "Yuriy Svetlov",
     "email": "startpascal1@mail.ru",
-    "url": "https://github.com/semiromid/html-minifier-without-js/"
+    "url": "https://github.com/Yuriy-Svetlov/html-minifier-without-js/"
   },
   "main": "src/htmlminifier.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/html-minifier-without-js.git"
+    "url": "https://github.com/Yuriy-Svetlov/html-minifier-without-js.git"
   },
   "dependencies": {
     "camel-case": "3.0.x",
